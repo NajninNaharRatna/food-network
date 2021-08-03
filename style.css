@@ -1,0 +1,84 @@
+body{
+    font-family: 'Noto Serif', serif;
+    margin: 0;
+    padding: 0;
+}
+
+font-family: 'Noto Serif', serif;
+
+.main{
+    font-size: 15px;
+}
+.orange{
+    color: darkorange;
+}
+.healthy-food{
+    font-size: 30px;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    font-size: 10px;
+    margin-bottom: 50px;
+  
+}
+half-width img{
+    width: 100%;
+
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, red);
+    padding: 10px 30px;
+    border-radius: 10px;
+  
+}
+.top-banner{
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.recipie{
+    text-align: center;
+}
+.image{
+
+}
+.half-width2{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 380px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+}
+half-width2 img{
+    width: 100%;
+
+}
+.box{
+    float: left;
+    width: 50%;
+    padding: 50px;
+    height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 200px;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+}
+.footer{
+    font-size: 10px;
+    color: oldlace;
+    border: 10px;
+    padding: 15px;
+    background-color: midnightblue;
+    padding-left: 300px;
+    background-clip: border-box;
+}
